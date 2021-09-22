@@ -7,5 +7,9 @@ what are you doing
 
 iam fine
 
+<<<<<<< HEAD
 
 where are you going
+=======
+can we meet 2morrow
+>>>>>>> feature
